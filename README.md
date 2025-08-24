@@ -8,7 +8,7 @@
 - 🔭 I’m currently working on **StudyNest**, an academic assistant web app.
 - 🌱 I’m learning **React, Node.js, and MongoDB**.
 - 💻 I love building **web applications and solving DSA problems**.
-- 📫 Reach me at: [arjunadps662@gmail.com] or connect on [LinkedIn](https://www.linkedin.com/in/arjun-uit/)
+- 📫 Reach me at: [Email](arjunadps662@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/arjun-uit/)
 
 ---
 

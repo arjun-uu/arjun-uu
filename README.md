@@ -23,22 +23,20 @@
 ### 🚀 Projects
 | Project | Description | Demo / Repo |
 |---------|-------------|-------------|
-| **Netflix Clone** | Fully responsive Netflix UI with interactive features | [Live Demo](https://arjun-uit.github.io/Netflix-Clone/) |
-| **Portfolio Website** | Modern personal portfolio showcasing projects | [Live Demo](https://arjun-uit.github.io/Portfolio/) |
-| **StudyNest** | Academic assistant web app with tracker & Pomodoro | [Repo](https://github.com/arjun-uit/StudyNest) |
+| **Portfolio Website** | Modern personal portfolio showcasing projects | [Live Demo](https://arjun-uu.github.io/My-Portfolio/) 
 
 ---
 
 ### 📊 GitHub Stats
-![Arjun's GitHub stats](https://github-readme-stats.vercel.app/api?username=arjun-uit&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arjun-uit&layout=compact&theme=radical)
+![Arjun's GitHub stats](https://github-readme-stats.vercel.app/api?username=arjun-uu&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arjun-uu&layout=compact&theme=radical)
 
 ---
 
 ### 🔗 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arjun-uit/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/arjun-uit/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arjunadps662@gmail.com)
 
 ---
 

@@ -43,7 +43,10 @@ Hey! I’m Arjun, a passionate coder and web developer.
 ## 🚀 Featured Projects
 | Project | Description | Demo / Repo |
 |---------|-------------|-------------|
-| **Portfolio Website** | Modern personal portfolio showcasing projects | [Live Demo](https://arjun-uu.github.io/My-Portfolio/) |
+| **Portfolio Website** | Modern personal portfolio showcasing projects |## 🚀 Live Demo
+
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Click%20Here-9b59b6?style=for-the-badge&logo=github)](https://arjun-uu.github.io/My-Portfolio/)
+ |
 
 ---
 

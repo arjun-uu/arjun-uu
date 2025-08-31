@@ -9,11 +9,12 @@ Hey! I’m Arjun, a passionate coder and web developer.
 - 🔭 Currently working on **StudyNest**, an academic assistant web app.  
 - 🌱 Learning **React, Node.js, and MongoDB**.  
 - 💻 Love building **web applications** and solving **DSA problems**.  
+- ⚡ Fun Fact: "Code is like humor. When you have to explain it, it’s bad." 😄
 
 ---
 
 ## 🛠 Tech Stack
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -34,30 +35,62 @@ Hey! I’m Arjun, a passionate coder and web developer.
 ---
 
 ## 🔗 Connect with Me
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arjunadps662@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arjun-uit/) 
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/arjun-uit/)
-
----
-
-## 🚀 Featured Projects
-| Project | Description | Demo / Repo |
-|---------|-------------|-------------|
-| **Portfolio Website** | Modern personal portfolio showcasing projects | [![Live Demo](https://img.shields.io/badge/Live%20Demo-Click%20Here-9b59b6?style=for-the-badge&logo=github)](https://arjun-uu.github.io/My-Portfolio/) |
-| **JS Calculator** | Interactive calculator built with HTML, CSS & JS | [![Live Demo](https://img.shields.io/badge/Live%20Demo-Click%20Here-brightgreen?style=for-the-badge)](https://arjun-uu.github.io/JS-Calculator/) |
-| **To-Do List Web App** | Task management web app with localStorage | [![Live Demo](https://img.shields.io/badge/Live%20Demo-Click%20Here-blue?style=for-the-badge)](https://arjun-uu.github.io/To-Do-List-Web-App/) |
-
----
-
-## 📊 GitHub Stats
-
 <p align="center">
-  <!-- Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=arjun-uu&show_icons=true&theme=radical" alt="Arjun's GitHub Stats" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arjun-uu&theme=radical" alt="GitHub Streak" />
+  <a href="mailto:arjunadps662@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/arjun-uit/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/arjun-uit/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-## 💡 Fun Fact
-> "Code is like humor. When you have to explain it, it’s bad." 😄
+## 🚀 Featured Projects
+<p align="center">
+  <table>
+    <tr>
+      <th>Project</th>
+      <th>Description</th>
+      <th>Demo / Repo</th>
+    </tr>
+    <tr>
+      <td><b>Portfolio Website</b></td>
+      <td>Modern personal portfolio showcasing projects</td>
+      <td>
+        <a href="https://arjun-uu.github.io/My-Portfolio/">
+          <img src="https://img.shields.io/badge/Live%20Demo-Click%20Here-9b59b6?style=for-the-badge&logo=github" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td><b>JS Calculator</b></td>
+      <td>Interactive calculator built with HTML, CSS & JS</td>
+      <td>
+        <a href="https://arjun-uu.github.io/JS-Calculator/">
+          <img src="https://img.shields.io/badge/Live%20Demo-Click%20Here-brightgreen?style=for-the-badge" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td><b>To-Do List Web App</b></td>
+      <td>Task management web app with localStorage</td>
+      <td>
+        <a href="https://arjun-uu.github.io/To-Do-List-Web-App/">
+          <img src="https://img.shields.io/badge/Live%20Demo-Click%20Here-blue?style=for-the-badge" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</p>
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=arjun-uu&show_icons=true&theme=radical" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arjun-uu&theme=radical" />
+</p>

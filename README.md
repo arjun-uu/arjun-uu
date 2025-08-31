@@ -50,8 +50,17 @@ Hey! I’m Arjun, a passionate coder and web developer.
 ---
 
 ## 📊 GitHub Stats
-![Arjun's GitHub stats](https://github-readme-stats.vercel.app/api?username=arjun-uu&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arjun-uu&layout=compact&theme=radical)
+
+<p align="center">
+  <!-- Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=arjun-uu&show_icons=true&theme=radical" alt="Arjun's GitHub Stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arjun-uu&layout=compact&theme=radical" alt="Top Languages" height="180" />
+</p>
+
+<p align="center">
+  <!-- Streak -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arjun-uu&theme=radical" alt="GitHub Streak" />
+</p>
 
 ---
 

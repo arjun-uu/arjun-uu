@@ -42,7 +42,7 @@ Hey! I’m Arjun, a passionate coder and web developer.
   <a href="https://www.linkedin.com/in/arjun-uit/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://leetcode.com/arjun-uit/">
+  <a href="https://leetcode.com/arjun_uit/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
   </a>
 </p>

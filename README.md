@@ -22,7 +22,7 @@
 
 ---
 
-## 🛠️ Tech Arsenal
+## 🛠️ Tech Stack
 
 ### 💻 Programming Languages
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -47,7 +47,6 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
 
@@ -95,13 +94,13 @@
 </td>
 <td width="50%">
 
-### 📚 StudyNest *(In Progress)*
-**Academic assistant web application**
-- 🎓 Study materials organization
-- 📊 Progress tracking  
-- 🤝 Collaborative features
+### 🚀 More Projects Coming Soon!
+**Always building something new**
+- 💡 Innovative ideas in development
+- 🔥 Exploring latest technologies  
+- 🎯 Focus on user experience
 
-[![Coming Soon](https://img.shields.io/badge/Status-In%20Development-yellow?style=for-the-badge&logo=react)](https://github.com/arjun-uu)
+[![GitHub](https://img.shields.io/badge/Follow-My%20Journey-purple?style=for-the-badge&logo=github)](https://github.com/arjun-uu)
 
 </td>
 </tr>

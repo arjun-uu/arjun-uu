@@ -94,3 +94,8 @@ Hey! I’m Arjun, a passionate coder and web developer.
   <img src="https://github-readme-stats.vercel.app/api?username=arjun-uu&show_icons=true&theme=radical" height="180" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=arjun-uu&theme=radical" />
 </p>
+
+## 🐍 My Contributions Snake
+<div align="center">
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/arjun-uu/arjun-uu/output/github-contribution-grid-snake.svg" />
+</div>

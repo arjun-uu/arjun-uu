@@ -6,21 +6,38 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+Profile!;Computer+Science+Student;Full+Stack+Web+Developer;DSA+Problem+Solver;Always+Learning+Something+New!" alt="Typing SVG" />
 
 ---
+## 🌟 About Me  
 
-### 🌟 About Me
-
-</div>
+<table>
+<tr>
+<td width="55%">
 
 🔭 **Currently working on:** StudyNest - Academic Assistant Web App  
 🌱 **Learning:** React, Node.js, MongoDB & System Design  
-💻 **Focus:** Full Stack Web Development  
-🎯 **Hobbies:** Coding, Problem Solving & Learning New Technologies  
-⚡ **Fun Fact:** I debug with console.log() and I'm not ashamed! 😄  
-📍 **Location:** India 🇮🇳
+💻 **Focus Areas:**  
+- Full Stack Web Development (MERN)  
+- Data Structures & Algorithms (DSA)  
+- Core CS Subjects (DBMS, OS, CN, Compiler Design)  
 
-<div align="center">
+🎯 **Goals for 2025:**  
+- Crack product-based companies 🚀  
+- Contribute to Open Source 🌍  
+- Build scalable & impactful projects 💡  
+
+⚡ **Fun Fact:** I debug with `console.log()` and I’m not ashamed! 😄  
+📍 **Location:** India 🇮🇳  
+
+</td>
+<td width="45%">
+
+<img alt="Coding" width="400" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif">
+
+</td>
+</tr>
+</table>
 
 ---
+
 
 ## 🛠️ Tech Stack
 

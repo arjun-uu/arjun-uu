@@ -29,9 +29,8 @@
 
 </td>
 <td width="45%" valign="top">
-
-<img alt="Coding" width="400" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif">
-
+<br><br>
+<img alt="Programmer" width="400" src="https://miro.medium.com/v2/resize:fit:748/1*fnzNwtof_7IKOSkAWvk0-Q.png">
 </td>
 </tr>
 </table>

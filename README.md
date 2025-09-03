@@ -10,14 +10,14 @@
 
 <table>
 <tr>
-<td width="55%">
+<td width="55%" valign="top">
 
 🔭 **Currently working on:** StudyNest - Academic Assistant Web App  
 🌱 **Learning:** React, Node.js, MongoDB & System Design  
 💻 **Focus Areas:**  
 - Full Stack Web Development (MERN)  
 - Data Structures & Algorithms (DSA)  
-- Core CS Subjects (DBMS, OS, CN, Compiler Design)  
+- Core CS Subjects (DBMS, OS, CN, OOPs)  
 
 🎯 **Goals for 2025:**  
 - Crack product-based companies 🚀  
@@ -28,13 +28,14 @@
 📍 **Location:** India 🇮🇳  
 
 </td>
-<td width="45%">
+<td width="45%" valign="top">
 
 <img alt="Coding" width="400" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif">
 
 </td>
 </tr>
 </table>
+
 
 ---
 
@@ -127,13 +128,27 @@
 
 ## 📊 GitHub Analytics
 
+<table>
+<tr>
+<td>
 <img width="400" src="https://github-readme-stats.vercel.app/api?username=arjun-uu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=arjun-uu&theme=tokyonight&hide_border=true" />
+</td>
+<td>
+<img width="400" height="180" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=arjun-uu&theme=tokyonight&hide_border=true" />
+</td>
+</tr>
+</table>
 
-<img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=arjun-uu&theme=tokyo-night&hide_border=true&area=true" />
-
-### 💻 Most Used Languages
+<table>
+<tr>
+<td>
+<img width="600" src="https://github-readme-activity-graph.vercel.app/graph?username=arjun-uu&theme=tokyo-night&hide_border=true&area=true" />
+</td>
+<td>
 <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arjun-uu&layout=compact&theme=tokyonight&hide_border=true" />
+</td>
+</tr>
+</table>
 
 ---
 
@@ -145,13 +160,6 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/arjun-uu/arjun-uu/output/github-contribution-grid-snake.svg">
 </picture>
 
----
-
-## 🏆 GitHub Trophies
-<img src="https://github-profile-trophy.vercel.app/?username=arjun-uu&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15&column=7" />
-
----
-
 ## 🤝 Let's Connect!
 
 <a href="mailto:arjunadps662@gmail.com">
@@ -162,6 +170,9 @@
 </a>
 <a href="https://leetcode.com/arjun_uit/">
   <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+</a>
+<a href="https://www.geeksforgeeks.org/profile/arjun_uit/">
+  <img src="https://img.shields.io/badge/GfG-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
 </a>
 <a href="https://github.com/arjun-uu">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
@@ -176,6 +187,5 @@
 
 <img src="https://komarev.com/ghpvc/?username=arjun-uu&style=for-the-badge&color=blue" alt="Profile views" />
 
-**✨ "Code is poetry written in logic" ✨**
 
 </div>

@@ -80,7 +80,7 @@
 - 🚀 Fast loading
 - 📱 Mobile-first approach
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit%20Site-success?style=for-the-badge&logo=vercel)](https://arjun-uu.github.io/My-Portfolio/)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Try%20Now-success?style=for-the-badge&logo=vercel)](https://arjun-uu.github.io/My-Portfolio/)
 [![Repository](https://img.shields.io/badge/Repo-View%20Code-blue?style=for-the-badge&logo=github)](https://github.com/arjun-uu/My-Portfolio)
 
 </td>
@@ -106,7 +106,7 @@
 - 💾 Local storage support
 - ✅ Mark as complete
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-Use%20App-orange?style=for-the-badge&logo=todoist)](https://arjun-uu.github.io/To-Do-List-Web-App/)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Try%20Now-brightgreen?style=for-the-badge&logo=todoist)](https://arjun-uu.github.io/To-Do-List-Web-App/)
 [![Repository](https://img.shields.io/badge/Repo-View%20Code-blue?style=for-the-badge&logo=github)](https://github.com/arjun-uu/To-Do-List-Web-App)
 
 </td>

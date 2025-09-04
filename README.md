@@ -51,10 +51,9 @@
 ### 🌐 Frontend Development
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=000000)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38BDF8?style=for-the-badge&logo=tailwind-css&logoColor=black)
 ### 🔧 Backend & Database
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -62,7 +61,7 @@
 
 ### 🛠️ Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-24292F?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ---
@@ -79,7 +78,7 @@
 - 🚀 Fast loading
 - 📱 Mobile-first approach
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-Try%20Now-success?style=for-the-badge&logo=vercel)](https://arjun-uu.github.io/My-Portfolio/)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Try%20Now-FFD700?style=for-the-badge&logo=google-chrome&logoColor=000000)](https://arjun-uu.github.io/My-Portfolio/)
 [![Repository](https://img.shields.io/badge/Repo-View%20Code-blue?style=for-the-badge&logo=github)](https://github.com/arjun-uu/My-Portfolio)
 
 </td>
@@ -91,7 +90,7 @@
 - ⚡ Real-time calculations
 - 🎨 CSS animations
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-Try%20Now-brightgreen?style=for-the-badge&logo=javascript)](https://arjun-uu.github.io/JS-Calculator/)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Try%20Now-FFD700?style=for-the-badge&logo=google-chrome&logoColor=000000)](https://arjun-uu.github.io/JS-Calculator/)
 [![Repository](https://img.shields.io/badge/Repo-View%20Code-blue?style=for-the-badge&logo=github)](https://github.com/arjun-uu/JS-Calculator)
 
 </td>
@@ -105,7 +104,7 @@
 - 💾 Local storage support
 - ✅ Mark as complete
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-Try%20Now-brightgreen?style=for-the-badge&logo=todoist)](https://arjun-uu.github.io/To-Do-List-Web-App/)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Try%20Now-FFD700?style=for-the-badge&logo=google-chrome&logoColor=000000)](https://arjun-uu.github.io/My-Portfolio/)
 [![Repository](https://img.shields.io/badge/Repo-View%20Code-blue?style=for-the-badge&logo=github)](https://github.com/arjun-uu/To-Do-List-Web-App)
 
 </td>
@@ -117,7 +116,7 @@
 - 🔥 Exploring latest technologies  
 - 🎯 Focus on user experience
 
-[![GitHub](https://img.shields.io/badge/Follow-My%20Journey-purple?style=for-the-badge&logo=github)](https://github.com/arjun-uu)
+[![GitHub](https://img.shields.io/badge/Follow-My%20Journey-blue?style=for-the-badge&logo=github)](https://github.com/arjun-uu)
 
 </td>
 </tr>
@@ -162,9 +161,9 @@
 ## 🤝 Let's Connect!
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arjunadps662@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arjun-uit/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/arjun_uit/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arjun-uu)
-[![GfG](https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/arjun-uit/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/arjun_uit/)
+![GitHub](https://img.shields.io/badge/GitHub-24292F?style=for-the-badge&logo=github&logoColor=white)
+[![GfG](https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=black)](https://www.geeksforgeeks.org/user/arjun-uit/)
 
 
 ---

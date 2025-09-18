@@ -104,7 +104,7 @@
 - 💾 Local storage support
 - ✅ Mark as complete
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-Try%20Now-FFD700?style=for-the-badge&logo=google-chrome&logoColor=000000)](https://arjun-uu.github.io/My-Portfolio/)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Try%20Now-FFD700?style=for-the-badge&logo=google-chrome&logoColor=000000)](https://arjun-uu.github.io/To-Do-List-Web-App/)
 [![Repository](https://img.shields.io/badge/Repo-View%20Code-blue?style=for-the-badge&logo=github)](https://github.com/arjun-uu/To-Do-List-Web-App)
 
 </td>

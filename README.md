@@ -105,7 +105,7 @@
 - 📧 Subscribe to newsletter  
 - 💻 Fully responsive and mobile-friendly  
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-Try%20Now-4CAF50?style=for-the-badge&logo=vercel&logoColor=ffffff)](https://estate-fyqc17u15-arjun-uits-projects.vercel.app/)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Try%20Now-4CAF50?style=for-the-badge&logo=vercel&logoColor=ffffff)](https://estate-rose-ten.vercel.app/)
 [![Repository](https://img.shields.io/badge/Repo-View%20Code-blue?style=for-the-badge&logo=github)](https://github.com/arjun-uit/Real-Estate)
 
 

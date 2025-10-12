@@ -65,7 +65,7 @@
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ---
-
+organise this   in good way  
 ## 🌟 Featured Projects
 
 <table>
@@ -84,14 +84,15 @@
 </td>
 <td width="50%">
 
-### 🧮 JS Calculator  
-**Interactive calculator with modern UI**
-- 🎯 Clean interface
-- ⚡ Real-time calculations
-- 🎨 CSS animations
+## 🎓 EduPortal  
+**Modern and responsive educational website built with React + Vite**  
+- 📱 Fully responsive design  
+- 🎨 Clean and modern UI/UX  
+- 🧭 Interactive navigation with smooth scrolling  
+- 📹 About section with intro video
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-Try%20Now-FFD700?style=for-the-badge&logo=google-chrome&logoColor=000000)](https://arjun-uu.github.io/JS-Calculator/)
-[![Repository](https://img.shields.io/badge/Repo-View%20Code-blue?style=for-the-badge&logo=github)](https://github.com/arjun-uu/JS-Calculator)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Try%20Now-4CAF50?style=for-the-badge&logo=vercel&logoColor=ffffff)](https://edu-portal-chi.vercel.app/)
+[![Repository](https://img.shields.io/badge/Repo-View%20Code-blue?style=for-the-badge&logo=github)](https://github.com/arjun-uit/EduPortal)
 
 </td>
 </tr>
@@ -123,7 +124,6 @@
 </td>
 </tr>
 </table>
-
 ---
 
 ## 📊 GitHub Analytics

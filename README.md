@@ -19,10 +19,7 @@
 - Data Structures & Algorithms (DSA)  
 - Core CS Subjects (DBMS, OS, CN, OOPs)  
 
-🎯 **Goals for 2025:**  
-- Crack product-based companies 🚀  
-- Contribute to Open Source 🌍  
-- Build scalable & impactful projects 💡  
+ 
 
 ⚡ **Fun Fact:** I debug with `console.log()` and I’m not ashamed! 😄  
 📍 **Location:** India 🇮🇳  

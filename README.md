@@ -12,19 +12,20 @@
 <tr>
 <td width="55%" valign="top">
 
-🔭 **Currently working on:** StudyNest - Academic Assistant Web App  
+🏢 **Currently:** Trainee @ Step2Gen (Learning & Building Real-World Projects)  
+
 🌱 **Learning:** React, Node.js, MongoDB & System Design  
+
 💻 **Focus Areas:**  
 - Full Stack Web Development (MERN)  
 - Data Structures & Algorithms (DSA)  
 - Core CS Subjects (DBMS, OS, CN, OOPs)  
 
- 
-
 ⚡ **Fun Fact:** I debug with `console.log()` and I’m not ashamed! 😄  
-📍 **Location:** India 🇮🇳  
+📍 **Location:** Mohali, India  
 
 </td>
+
 <td width="45%" valign="top">
 <br><br>
 <img alt="Programmer" width="400" src="https://miro.medium.com/v2/resize:fit:748/1*fnzNwtof_7IKOSkAWvk0-Q.png">

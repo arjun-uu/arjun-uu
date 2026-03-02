@@ -129,24 +129,12 @@ organise this   in good way
 <table>
 <tr>
 <td>
-<img width="400" src="https://github-readme-stats.vercel.app/api?username=arjun-uu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-</td>
-<td>
 <img width="400" height="180" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=arjun-uu&theme=tokyonight&hide_border=true" />
 </td>
 </tr>
 </table>
 
-<table>
-<tr>
-<td>
-<img width="600" src="https://github-readme-activity-graph.vercel.app/graph?username=arjun-uu&theme=tokyo-night&hide_border=true&area=true" />
-</td>
-<td>
-<img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arjun-uu&layout=compact&theme=tokyonight&hide_border=true" />
-</td>
-</tr>
-</table>
+
 
 ---
 

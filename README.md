@@ -1,165 +1,209 @@
 <div align="center">
-  
-# 👨‍💻 Hey there! I'm Arjun 
-### 🚀 Computer Science Student | DSA Enthusiast | Full Stack Developer
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+Profile!;Computer+Science+Student;Full+Stack+Web+Developer;DSA+Problem+Solver;Always+Learning+Something+New!" alt="Typing SVG" />
+# 👨‍💻 Hi, I'm Arjun
 
----
-## 🌟 About Me  
+### Full Stack Developer @ Step2Gen
 
-<table>
-<tr>
-<td width="55%" valign="top">
+Building scalable web applications with **React, TypeScript, and .NET**.
 
-🏢 **Currently:** Trainee @ Step2Gen (Learning & Building Real-World Projects)  
+<a href="https://github.com/arjun-uu">
+  <img src="https://komarev.com/ghpvc/?username=arjun-uu&style=flat-square&color=6e7781" alt="Profile Views" />
+</a>
 
-🌱 **Learning:** React, Node.js, MongoDB & System Design  
-
-💻 **Focus Areas:**  
-- Full Stack Web Development (MERN)  
-- Data Structures & Algorithms (DSA)  
-- Core CS Subjects (DBMS, OS, CN, OOPs)  
-
-⚡ **Fun Fact:** I debug with `console.log()` and I’m not ashamed! 😄  
-📍 **Location:** Mohali, India  
-
-</td>
-
-<td width="45%" valign="top">
-<br><br>
-<img alt="Programmer" width="400" src="https://miro.medium.com/v2/resize:fit:748/1*fnzNwtof_7IKOSkAWvk0-Q.png">
-</td>
-</tr>
-</table>
-
+</div>
 
 ---
 
+## About Me
+
+I'm a **Full Stack Developer at Step2Gen**, working on real-world applications and continuously improving my skills across frontend, backend, databases, and software architecture.
+
+My current development focus is primarily around the **React + .NET ecosystem**, with an interest in building maintainable, scalable, and production-ready applications.
+
+* 💼 **Currently:** Full Stack Developer @ Step2Gen
+* 🧩 **Frontend:** React, TypeScript, Redux Toolkit, RTK Query
+* ⚙️ **Backend:** C#, .NET, ASP.NET Core, REST APIs
+* 🗄️ **Database:** SQL Server, Entity Framework Core
+* 🏗️ **Architecture:** Clean Architecture, Domain-Driven Design, ABP Framework
+* 🔐 **Authentication:** JWT, ASP.NET Identity
+* 🌱 **Currently exploring:** AI-assisted development, system design, SignalR & real-time applications
+* 🧠 **Also interested in:** Data Structures & Algorithms and software engineering fundamentals
+
+---
 
 ## 🛠️ Tech Stack
 
-### 💻 Programming Languages
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+### Languages
 
-### 🌐 Frontend Development
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=000000)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38BDF8?style=for-the-badge&logo=tailwind-css&logoColor=black)
-### 🔧 Backend & Database
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/C-1F6FEB?style=flat-square&logo=c&logoColor=white" alt="C"/>
+  <img src="https://img.shields.io/badge/C%2B%2B-1F6FEB?style=flat-square&logo=cplusplus&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white" alt="C#"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000000" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+</p>
 
-### 🛠️ Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-24292F?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+### Frontend
+
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/React%20Router-CA4245?style=flat-square&logo=reactrouter&logoColor=white" alt="React Router"/>
+  <img src="https://img.shields.io/badge/Redux%20Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white" alt="Redux Toolkit"/>
+  <img src="https://img.shields.io/badge/RTK%20Query-764ABC?style=flat-square&logo=redux&logoColor=white" alt="RTK Query"/>
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-0F172A?style=flat-square&logo=tailwindcss&logoColor=38BDF8" alt="Tailwind CSS"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/>
+</p>
+
+### Backend & APIs
+
+<p>
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET"/>
+  <img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="ASP.NET Core"/>
+  <img src="https://img.shields.io/badge/Entity%20Framework%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="Entity Framework Core"/>
+  <img src="https://img.shields.io/badge/REST%20APIs-222222?style=flat-square" alt="REST APIs"/>
+  <img src="https://img.shields.io/badge/SignalR-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="SignalR"/>
+</p>
+
+### Database & Architecture
+
+<p>
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SQL Server"/>
+  <img src="https://img.shields.io/badge/EF%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="EF Core"/>
+  <img src="https://img.shields.io/badge/ABP%20Framework-0F6CBD?style=flat-square&logo=dotnet&logoColor=white" alt="ABP Framework"/>
+  <img src="https://img.shields.io/badge/DDD-333333?style=flat-square" alt="Domain Driven Design"/>
+  <img src="https://img.shields.io/badge/Clean%20Architecture-333333?style=flat-square" alt="Clean Architecture"/>
+</p>
+
+### Tools & Platforms
+
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
+  <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white" alt="Visual Studio"/>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel"/>
+</p>
 
 ---
-organise this   in good way  
-## 🌟 Featured Projects
+
+## 🚀 Featured Projects
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🎨 Portfolio Website
-**Modern personal portfolio showcasing my work**
-- ✨ Responsive design
-- 🚀 Fast loading
-- 📱 Mobile-first approach
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-Try%20Now-FFD700?style=for-the-badge&logo=google-chrome&logoColor=000000)](https://arjun-uu.github.io/My-Portfolio/)
-[![Repository](https://img.shields.io/badge/Repo-View%20Code-blue?style=for-the-badge&logo=github)](https://github.com/arjun-uu/My-Portfolio)
+**Modern personal portfolio showcasing my work**
+
+* Responsive design
+* Fast loading
+* Mobile-first approach
+
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Try%20Now-222222?style=for-the-badge\&logo=google-chrome\&logoColor=white)](https://arjun-uu.github.io/My-Portfolio/)
+[![Repository](https://img.shields.io/badge/Repository-View%20Code-24292F?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/arjun-uu/My-Portfolio)
 
 </td>
-<td width="50%">
 
-## 🎓 EduPortal  
-**Modern and responsive educational website built with React + Vite**  
-- 📱 Fully responsive design  
-- 🎨 Clean and modern UI/UX  
-- 🧭 Interactive navigation with smooth scrolling  
-- 📹 About section with intro video
+<td width="50%" valign="top">
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-Try%20Now-4CAF50?style=for-the-badge&logo=vercel&logoColor=ffffff)](https://edu-portal-chi.vercel.app/)
-[![Repository](https://img.shields.io/badge/Repo-View%20Code-blue?style=for-the-badge&logo=github)](https://github.com/arjun-uit/EduPortal)
+### 🎓 EduPortal
+
+**Modern and responsive educational website built with React + Vite**
+
+* Fully responsive design
+* Clean and modern UI/UX
+* Interactive navigation with smooth scrolling
+* About section with intro video
+
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Try%20Now-222222?style=for-the-badge\&logo=vercel\&logoColor=white)](https://edu-portal-chi.vercel.app/)
+[![Repository](https://img.shields.io/badge/Repository-View%20Code-24292F?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/arjun-uit/EduPortal)
 
 </td>
 </tr>
+
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🏡 Estate – Real Estate Website
-**Discover properties and client testimonials with ease**  
-- 🏘️ Browse and explore property listings  
-- 🌟 View client testimonials with ratings  
-- 📧 Subscribe to newsletter  
-- 💻 Fully responsive and mobile-friendly  
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-Try%20Now-4CAF50?style=for-the-badge&logo=vercel&logoColor=ffffff)](https://estate-rose-ten.vercel.app/)
-[![Repository](https://img.shields.io/badge/Repo-View%20Code-blue?style=for-the-badge&logo=github)](https://github.com/arjun-uit/Real-Estate)
+**Discover properties and client testimonials with ease**
 
+* Browse and explore property listings
+* View client testimonials with ratings
+* Newsletter subscription
+* Fully responsive and mobile-friendly
+
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Try%20Now-222222?style=for-the-badge\&logo=vercel\&logoColor=white)](https://estate-rose-ten.vercel.app/)
+[![Repository](https://img.shields.io/badge/Repository-View%20Code-24292F?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/arjun-uit/Real-Estate)
 
 </td>
-<td width="50%">
+
+<td width="50%" valign="top">
 
 ### 🚀 More Projects Coming Soon!
-**Always building something new**
-- 💡 Innovative ideas in development
-- 🔥 Exploring latest technologies  
-- 🎯 Focus on user experience
 
-[![GitHub](https://img.shields.io/badge/Follow-My%20Journey-blue?style=for-the-badge&logo=github)](https://github.com/arjun-uu)
+**Always building and learning**
+
+* Exploring new technologies
+* Working on real-world applications
+* Improving software architecture
+* Building better developer experiences
+
+[![GitHub](https://img.shields.io/badge/Follow%20My%20Journey-24292F?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/arjun-uu)
 
 </td>
 </tr>
 </table>
----
-
-## 📊 GitHub Analytics
-
-<table>
-<tr>
-<td>
-<img width="400" height="180" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=arjun-uu&theme=tokyonight&hide_border=true" />
-</td>
-</tr>
-</table>
-
-
 
 ---
 
-## 🐍 Watch my Contributions Snake eat my commits!
+## 📊 GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=arjun-uu&theme=default&hide_border=true" width="500" alt="GitHub Streak"/>
+
+</div>
+
+---
+
+## 🐍 Contribution Graph
+
+<div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arjun-uu/arjun-uu/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arjun-uu/arjun-uu/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/arjun-uu/arjun-uu/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/arjun-uu/arjun-uu/output/github-contribution-grid-snake.svg">
 </picture>
 
-## 🤝 Let's Connect!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arjun-uit/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/arjun_uit/)
-[![GfG](https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=black)](https://www.geeksforgeeks.org/user/arjun-uit/)
-
+</div>
 
 ---
 
-### 💭 Random Dev Quote
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+## 🤝 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/arjun-uit/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://leetcode.com/arjun_uit/">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" alt="LeetCode"/>
+</a>
+<a href="https://www.geeksforgeeks.org/user/arjun-uit/">
+  <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=flat-square&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/>
+</a>
+
+</div>
 
 ---
 
-<img src="https://komarev.com/ghpvc/?username=arjun-uu&style=for-the-badge&color=blue" alt="Profile views" />
+<div align="center">
 
+### Building. Learning. Improving.
 
 </div>

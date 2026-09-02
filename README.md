@@ -164,7 +164,7 @@ My current development focus is primarily around the **React + .NET ecosystem**,
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=arjun-uu&theme=default&hide_border=true" width="500" alt="GitHub Streak"/>
+<img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=arjun-uu&theme=dark&hide_border=true" width="500" alt="GitHub Streak"/>
 
 </div>
 
